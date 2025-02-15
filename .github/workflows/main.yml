@@ -11,7 +11,7 @@ jobs:
   build-and-push:
   # workflow will build and push
     runs-on: ubuntu-latest
-    environment: workflow
+    environment: workshop
 
     steps:
       # 1. Check out the repository.
